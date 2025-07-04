@@ -16,27 +16,27 @@
 <body>
     <h1>لیست پروکسی‌های MTProto</h1>
     <ul>
-        <li><a href="intent://proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱</a></li>
-        <li><a href="intent://proxy?server=silvermantain.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۲</a></li>
-        <li><a href="intent://proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۳</a></li>
-        <li><a href="intent://proxy?server=daem.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۴</a></li>
-        <li><a href="intent://proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۵</a></li>
-        <li><a href="intent://proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۶</a></li>
-        <li><a href="intent://proxy?server=leveldaemi.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۷</a></li>
-        <li><a href="intent://proxy?server=wait.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۸</a></li>
-        <li><a href="intent://proxy?server=syczleck.itemag.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۹</a></li>
-        <li><a href="intent://proxy?server=leveldaemi.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۰</a></li>
-        <li><a href="intent://proxy?server=halftime.parsintalk.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۱</a></li>
-        <li><a href="intent://proxy?server=sadra.mygrade.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۲</a></li>
-        <li><a href="intent://proxy?server=algortim.sayaair.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۳</a></li>
-        <li><a href="intent://proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۴</a></li>
-        <li><a href="intent://proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۵</a></li>
-        <li><a href="intent://proxy?server=response.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۶</a></li>
-        <li><a href="intent://proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۷</a></li>
-        <li><a href="intent://proxy?server=aval.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۸</a></li>
-        <li><a href="intent://proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۱۹</a></li>
-        <li><a href="intent://proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۲۰</a></li>
-        <li><a href="intent://proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d#Intent;scheme=tg;package=org.telegram.messenger;end">پروکسی ۲۱</a></li>
+        <li><a href="tg://proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱</a></li>
+        <li><a href="tg://proxy?server=silvermantain.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۲</a></li>
+        <li><a href="tg://proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۳</a></li>
+        <li><a href="tg://proxy?server=daem.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۴</a></li>
+        <li><a href="tg://proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۵</a></li>
+        <li><a href="tg://proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۶</a></li>
+        <li><a href="tg://proxy?server=leveldaemi.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۷</a></li>
+        <li><a href="tg://proxy?server=wait.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۸</a></li>
+        <li><a href="tg://proxy?server=syczleck.itemag.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۹</a></li>
+        <li><a href="tg://proxy?server=leveldaemi.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱۰</a></li>
+        <li><a href="tg://proxy?server=halftime.parsintalk.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۱۱</a></li>
+        <li><a href="tg://proxy?server=sadra.mygrade.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۱۲</a></li>
+        <li><a href="tg://proxy?server=algortim.sayaair.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۱۳</a></li>
+        <li><a href="tg://proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱۴</a></li>
+        <li><a href="tg://proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱۵</a></li>
+        <li><a href="tg://proxy?server=response.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۱۶</a></li>
+        <li><a href="tg://proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱۷</a></li>
+        <li><a href="tg://proxy?server=aval.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t">پروکسی ۱۸</a></li>
+        <li><a href="tg://proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۱۹</a></li>
+        <li><a href="tg://proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۲۰</a></li>
+        <li><a href="tg://proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d">پروکسی ۲۱</a></li>
     </ul>
 </body>
 </html>
