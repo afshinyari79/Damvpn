@@ -24,13 +24,3 @@ ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.
 ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
 ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
      ```
-
-- این کد رو کپی کن و توی فایل `README.md` توی گیت‌هابت بذار.
-- اگه می‌خوای توی Gist بذاری، یه Gist جدید بساز و این متن رو اونجا پیست کن.
-
-### نکات:
-- بعد از آپلود، توی گیت‌هاب یه دکمه کپی خودکار بالای بلوک کد ظاهر می‌شه که کاربرا با کلیک روش می‌تونن کل متن رو کپی کنن.
-- اگه خطایی دیدی یا چیزی درست نشد، شات بفرست تا چک کنم.
-- وقتی آماده شدی و کد رو توی گیت‌هابت گذاشتی، بگو تا راهنمایی کنم اگه نیاز به تنظیم بیشتر بود.
-
-منتظر جوابت هستم تا بعد از برگردوندن سایتت، با هم توی گیت‌هاب ادامه بدیم! 
