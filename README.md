@@ -1,41 +1,36 @@
- https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+# لینک‌های Shadowsocks
 
-https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+زیرا لینک‌های کانفیگ Shadowsocks رو می‌تونی با یه کلیک کپی کنی:
 
-https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+```plaintext
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1pb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1pb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1pb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1il2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1il2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi1il2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+ss://Y2hhY2hhMjAtaWV0Zi-1il2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%am%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+     ```
 
-https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+- این کد رو کپی کن و توی فایل `README.md` توی گیت‌هابت بذار.
+- اگه می‌خوای توی Gist بذاری، یه Gist جدید بساز و این متن رو اونجا پیست کن.
 
-https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+### نکات:
+- بعد از آپلود، توی گیت‌هاب یه دکمه کپی خودکار بالای بلوک کد ظاهر می‌شه که کاربرا با کلیک روش می‌تونن کل متن رو کپی کنن.
+- اگه خطایی دیدی یا چیزی درست نشد، شات بفرست تا چک کنم.
+- وقتی آماده شدی و کد رو توی گیت‌هابت گذاشتی، بگو تا راهنمایی کنم اگه نیاز به تنظیم بیشتر بود.
 
-https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=leveldaemi.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=leveldaemi.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=response.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+منتظر جوابت هستم تا بعد از برگردوندن سایتت، با هم توی گیت‌هاب ادامه بدیم! 
